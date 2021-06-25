@@ -23,5 +23,6 @@ Matplotlib
 
 # Project Evaluation
 
-My project was evaluated against the https://github.com/robertyoung2/Finding-Donors-for-CharityML/blob/master/Finding%20Donors%20for%20CharityML%20project%20rubric.pdf
+My project was evaluated against the 
+https://github.com/robertyoung2/Finding-Donors-for-CharityML/blob/master/Finding%20Donors%20for%20CharityML%20project%20rubric.pdf
 
